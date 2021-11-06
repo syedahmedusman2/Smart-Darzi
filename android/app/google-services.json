@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "943347230352",
+    "project_id": "smart-darzi-f0f96",
+    "storage_bucket": "smart-darzi-f0f96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943347230352:android:463fe5a384d01b06761a15",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ecommerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943347230352-jcek5idn7qi230ans69sa3a6b7p6to1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA26T74I8enfsndIMaOjbzsjZ0EAfrc3Lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943347230352-jcek5idn7qi230ans69sa3a6b7p6to1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
